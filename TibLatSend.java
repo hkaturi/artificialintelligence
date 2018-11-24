@@ -2,7 +2,7 @@
  */
 
 /*
- * This is a sample java program which can be used (with the TibLatRecv program)
+ * This is a  java program which can be used (with the TibLatRecv program)
  * to measure basic latency between the publisher and subscriber.
  */
 
