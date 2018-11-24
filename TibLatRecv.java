@@ -1,7 +1,7 @@
 
 
 /*
- * This is a sample java responder program which is used with the TibLatSend
+ * This is a java responder program which is used with the TibLatSend
  * program to measure basic latency between the publisher and subscriber.
  */
 
