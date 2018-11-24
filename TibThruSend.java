@@ -1,7 +1,7 @@
 
 
  /*
- * This is a sample java program which can be used (with the TibThruRecv program)
+ * This is  java program which can be used (with the TibThruRecv program)
  * to measure basic throughput between the publisher and subscriber.
  *
  * NOTE: This application is multi-threaded using a busy wait in senderThread's start function,
