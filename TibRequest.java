@@ -1,7 +1,7 @@
 
 
 /*
- * This is a sample Java request program which is used with the TibReply program
+ * This is a  Java request program which is used with the TibReply program
  * to demonstrate the basic use of inboxes.
  */
 
