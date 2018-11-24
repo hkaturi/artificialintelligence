@@ -1,6 +1,6 @@
 
 /*
- * This is a sample of a basic java FTL publisher program which sends a single msg.
+ * This is a java FTL publisher program which sends a single msg.
  */
 
 package com.tibco.ftl.samples;
