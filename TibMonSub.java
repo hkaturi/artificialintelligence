@@ -1,7 +1,7 @@
 
 
 /*
- * This is a sample of a basic java FTL monitoring subscriber program.
+ * This is a  basic java FTL monitoring subscriber program.
  */
 
 package com.tibco.ftl.samples;
